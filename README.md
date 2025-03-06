@@ -107,4 +107,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - NOAA for climate data
 - FEMA for disaster declaration records
-- [Add other data sources or inspirations]
