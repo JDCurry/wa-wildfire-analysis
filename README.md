@@ -1,7 +1,7 @@
 # Washington State Wildfire Data Analysis
 
 ## Overview
-This project analyzes the relationship between climate factors and wildfire occurrences in Washington State. By integrating data from multiple sources including NOAA climate records, fire incident reports, and FEMA disaster declarations, this analysis aims to identify patterns and correlations that could inform wildfire prevention and management strategies.
+This project examines the relationship between climate factors and wildfire occurrences in Washington State. By integrating data from multiple sources, including NOAA climate records, fire incident reports, and FEMA disaster declarations, this analysis tries to identify patterns and correlations that can inform wildfire prevention and management strategies.
 
 ## Features
 - Data integration from multiple sources (climate, fire incidents, FEMA declarations)
@@ -98,8 +98,6 @@ wa-wildfire-analysis/
 └── README.md           # Project documentation
 ```
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
